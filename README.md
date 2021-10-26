@@ -1,3 +1,3 @@
-# Strapi application
+# Backend for my Tunez (fake concerts near you) app
 
-A quick description of your strapi application
+Link:
